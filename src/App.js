@@ -79,7 +79,7 @@ function App() {
         {/* Right Section ( Banner ) */}
         <RightSection data-aos="fade-right" data-aos-duration="1000">
           <Img
-            src="https://upgraphy.com/wp-content/uploads/edd/2020/09/web-developer-vector-illustration-5de192c700231.png"
+            src="https://www.htmlden.com/wp-content/themes/ks/img/web-developer-master-tn.svg"
             alt="Banner"
           />
         </RightSection>
