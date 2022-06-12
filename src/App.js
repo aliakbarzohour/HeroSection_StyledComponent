@@ -19,7 +19,7 @@ const Container = styled.div`
 
 const LeftSection = styled.div`
   padding: 40px;
-  width: 570px;
+  width: 590px;
 `;
 const RightSection = styled.div`
   width: max-content;
@@ -54,7 +54,7 @@ background-color: rgb(72 149 250);
   }
 `;
 const Img = styled.img`
-  width: 500px;
+  width: 550px;
   margin: 20px;
 `;
 
