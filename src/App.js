@@ -41,7 +41,7 @@ const Description = styled.p`
 const Btn = styled.button`
   padding: 15px 30px;
   margin: 20px;
-  background-color: #6900a7;
+background-color: rgb(72 149 250);
   color: white;
   cursor: pointer;
   border: none;
@@ -49,12 +49,12 @@ const Btn = styled.button`
   border-radius: 10px;
   transition: 0.6s;
   :hover {
-    background-color: purple;
+    background-color: #224dc2;
     transition: 0.6s;
   }
 `;
 const Img = styled.img`
-  width: 600px;
+  width: 500px;
   margin: 20px;
 `;
 
